@@ -1,2 +1,2 @@
 # RL
-My solutions to 
+My solutions to UC berkley cs188 Artificial Intelligence
